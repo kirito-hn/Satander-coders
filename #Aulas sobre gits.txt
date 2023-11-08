@@ -1,3 +1,4 @@
 #Aulas sobre gits/Versionamento
 #Salvando modificações no Git
 *Usando Git restore
+* Comando git push
